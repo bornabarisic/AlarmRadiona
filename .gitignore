@@ -1,0 +1,17 @@
+*.Borna
+*.uvoptx
+*.uvprojx
+*.scvd
+*.dbgconf
+*.map
+*.lst
+*.axf
+*.htm
+*.d
+*.lnp
+*.o
+*.sct
+*.dep
+*.iex
+*.crf
+*.s
